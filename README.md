@@ -5,6 +5,6 @@ Layout do projeto no [Figma](https://www.figma.com/file/BPHOdrrzDnuvKPurADmIsW/C
 
 ## Preview
 <section>
-  <img  align="top" src="_github_assets/desktop.png" width=600 alt="Desktop" />
-  <img  align="top" src="_github_assets/mobile.png" width=300 alt="Mobile" />
+  <img  align="top" src="_github_assets/desktop.png" width=300 alt="Desktop" />
+  <img  align="top" src="_github_assets/mobile.png" width=200 alt="Mobile" />
 </section>
